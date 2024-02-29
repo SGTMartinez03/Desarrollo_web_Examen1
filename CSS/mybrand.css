@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Rokkitt:ital,wght@0,100..900;1,100..900&display=swap');
+/* Estilos para el encabezado */
+.top-menu {
+    padding: 0; /* Elimina el relleno superior e inferior del menú */
+    max-width: 15;
+}
+
+.top-menu a {
+    color: #212529; /* Color del texto del menú */
+    text-decoration: none; /* Elimina el subrayado de los enlaces */
+    font-size: 20px; /* Tamaño del texto más pequeño */
+   
+}
+
+.btn-orange {
+    background-color: #FFA500; 
+    color: #fff; 
+    border: none; 
+    padding: 0.5rem 1rem; 
+    text-decoration: none; 
+}
+
+.btn-orange:hover {
+    background-color: #FF8C00; /* Color de fondo al pasar el mouse sobre el botón */
+}
+
+.btn-primary{
+
+    background-color: orange;
+}
+
+.text-uppercase{
+    font-size: 10px; 
+    padding: 10;
+   
+
+}
